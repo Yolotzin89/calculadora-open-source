@@ -1,6 +1,6 @@
 # Calculadora Open Source en Python  
 
-**Proyecto escolar** | [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+**Proyecto escolar** 
 
 Una calculadora básica con operaciones matemáticas implementadas en Python, diseñada como proyecto escolar.  
 
@@ -16,7 +16,7 @@ Una calculadora básica con operaciones matemáticas implementadas en Python, di
 
 ### 1. Clonar el repositorio  
 ```bash
-git clone https://github.com/tu-usuario/calculadora-open-source.git
+git clone https://github.com/Yolotzin89/calculadora-open-source.git
 cd calculadora-open-source
 ```
 ### 2. Ejecutar la calculadora
